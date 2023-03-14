@@ -1,0 +1,6 @@
+@inproceedings{REPO-177,
+    author = "He, Kaiming and Gkioxari, Georgia and Dollar, Piotr and Girshick, Ross",
+    booktitle = "Proceedings of the IEEE International Conference on Computer Vision (ICCV)",
+    title = "{Mask R-CNN}",
+    year = "2017"
+}
